@@ -29,8 +29,6 @@ Composer: Gerenciador de dependências PHP.
 
 
 📂 Estrutura do Projeto
-plaintext
-Copiar código
 ├── config/
 │   ├── connection.php      # Arquivo de configuração do banco de dados
 ├── models/
