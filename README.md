@@ -1,4 +1,5 @@
 Clube POP - Sistema de Cadastro e Ativação de Usuários
+
 Este projeto é uma aplicação web para gerenciamento de cadastros e envio de e-mails de ativação para novos usuários. Ele utiliza PHP para o backend, PHPMailer para envio de e-mails e um banco de dados MySQL para armazenamento das informações.
 
 ⚙️ Funcionalidades
